@@ -167,7 +167,4 @@ if ((sumPoengKortstokk -kortstokk $magnus) -gt $blackjack) {
 
 skrivUtResultat -vinner '?' -kortStokkMagnus $magnus -kortStokkMeg $meg
 
-}
-
-
 
