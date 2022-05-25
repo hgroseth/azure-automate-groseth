@@ -3,7 +3,7 @@ name: oppgave 15
 on: 
   push:
     paths:
-    - ./github/workflows/oppgave_15.yml
+     - ./github/workflows/oppgave_15.yml
   workflow_dispatch:
 
 jobs:
