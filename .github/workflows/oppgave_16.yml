@@ -26,3 +26,5 @@ jobs:
           creds: ${{ secrets.AZ_KURS }}
           enable-AzPSSession: true
         
+
+        
