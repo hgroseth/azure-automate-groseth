@@ -17,3 +17,5 @@ jobs:
 
       - name: Run Blackjack script file
         run: ./src/oppgave_10.ps1
+
+        
